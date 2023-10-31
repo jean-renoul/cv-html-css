@@ -1,0 +1,39 @@
+.presentation{
+    text-align: center;
+}
+#contact{
+    display: inline-block;
+}
+header{
+    background-color: antiquewhite;
+}
+main{
+    column-count: 2;background-color: antiquewhite;
+}
+footer{
+    background-color: #6d0e776f;
+}
+body{
+    border: 5px solid rgb(0, 0, 0);width: 600px;
+}
+section{
+    border-top: 3px solid rgb(0, 0, 0);
+}
+h1{
+    background-color: #6d0e776f;margin-top: 0%;border-bottom: 3px solid rgb(0, 0, 0);
+}
+.logos{
+    width: 25%;height: 25%; border: 2px solid rgb(0, 0, 0);
+}
+.minilogos{
+    width: 5%;height: 5%; border: 2px solid rgb(0, 0, 0);
+}
+#pallois{
+    border: 2px solid rgb(0, 0, 0);
+}
+p{
+    padding-left: 1%;padding-top: 1%;
+}
+.explications{
+    display: 
+}
